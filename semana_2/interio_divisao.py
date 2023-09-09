@@ -1,0 +1,12 @@
+'''a=78615//4
+print(a)
+b=78615/4
+print(b)
+c=78615%4
+print(c)'''
+e='356'
+f=len(e)
+g=(f-1)
+h=str(g)
+print(h)
+print(len(e)-1)
